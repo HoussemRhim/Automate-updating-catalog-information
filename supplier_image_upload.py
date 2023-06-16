@@ -10,7 +10,7 @@ image_directory = '/home/{}/supplier-data/images/'.format(USER)
 #Listing all the files in images directory
 files = os.listdir(image_directory)
 # Parsing through all the images
-for images_name in files:
+for image_name in files:
     # accepting files that has jpeg extension and ignoring hidden files
     if not image_name.startwith('.') and 'jpeg' in image_name:
         # creating absolute path for each image
