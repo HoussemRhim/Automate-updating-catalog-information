@@ -1,7 +1,7 @@
 # Automate-updating-catalog-information
 Coursera-Automating Real-World Tasks with Python-week 4
 
-Project Problem Statement
+Project Problem Statement:
 
 Okay, here's the scenario:
 
@@ -23,7 +23,7 @@ Hopefully this summary has helped you start thinking about how you’ll approach
 
 
 
-How to Approach the Problem
+How to Approach the Problem:
 
 We're giving you a pretty big project to do at the end of this course -- but you can totally complete it with what you've learned until now! Take your time, and be methodical. Use these tips to help you:
 
