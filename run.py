@@ -9,7 +9,7 @@ def catalog_data(url,description_dir):
     fruit = {}
     for i in os.listdir(description_dir):
         fruit.clear()
-        filename = os.path.join(desription_dir, item)
+        filename = os.path.join(description_dir, item)
         with open(filename) as f:
             line = f.readlines()
             description = ""
