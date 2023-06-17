@@ -30,5 +30,5 @@ if __name__=='__main__':
     url = 'http://localhost/fruits/'
     user = os.getenv('USER')
     description_directory = '/home/{}/supplier-data/descriptions/'.format(user)
-    catalog_data(url, description_directpry)
+    catalog_data(url, description_directory)
     
